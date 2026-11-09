@@ -1,0 +1,16 @@
+# Compiled binaries
+cmd-tes
+cmd-test
+concat
+partner
+stretch
+swappy
+three
+time
+two
+
+# Build artifacts
+*.o
+*.out
+output/
+.DS_Store
